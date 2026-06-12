@@ -1,2 +1,2 @@
-hello from main and feature branch
+hello from Git and feature branch
 
